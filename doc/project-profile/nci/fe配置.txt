@@ -1,0 +1,1153 @@
+exp appdb/appdb@192.168.180.86:1521/ncldb file=d:\ncldb0422.dmp full=y
+
+01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34
+
+jdk 安装环境
+C:\Program Files\Java
+tommcat 安装环境
+
+
+debugger;
+
+130481198811161090
+
+170	5d93ceb70e2bf5daa84ec3d0cd2c731a		张天然	18010180946	0	2016/5/12 11:44:09	2	2016/5/12 11:48:59
+
+http://localhost:10006/eb/product/buyProduct.gsp?params.productId=249&params.ebUserId=249&params.firmId=null
+
+http://localhost:9090/eb/page/mypage/home.jsp?urltype=1
+
+
+测试服务器 图片存储地址
+/application/war/upload/compensate/
+
+
+产品的规则:
+	E:\新锐工作文档\SVN\document\20_需求阶段\需求文档\员福平台购买产品的验证规则.docx
+  
+禅道 :
+
+   http://192.168.168.241:88/zentao/my/大家都登一下    用户名是名字全拼  密码12345678   要是有登不上的   跟我说
+   
+   
+   http://192.168.180.87/RBAC  后台测试程序
+ 
+   https://192.168.180.87/ebs/page/login/login.jsp
+   生产环境测试   作废
+   http://192.168.180.87:90/eb
+   http://192.168.180.87:90/rbac
+   
+   
+   
+   后台测试程序
+   http://192.168.180.87:8084/rbac/page/admin/index.vm
+   前台登录地址
+   http://192.168.180.87/eb/page/login/login.jsp
+   
+   
+   887079810213  
+   887079810213  
+   
+   
+   查询手机号 
+   http://10.1.71.144:8080/SmsClient//LogPrint.jsp?ip=10.5.96.119&phone=&date=     
+   理赔管理查看图片
+   http://127.0.0.1:9090/RBAC/image/showimg.go?url=compensate/2016/09/30/1475204348908.jpg
+   fe 查看图片
+   http://127.0.0.1:9090/eb/upload/compensate/2016/09/22/sou_1474511025316.jpg
+   http://192.168.180.87/upload/product/1465292944123.jpg
+   http://192.168.180.87/upload/ompensate/2016/10/18/1476768932548.jpg
+   http://192.168.180.87/upload/compensate/2016/10/19/sou_1476860703573.jpg
+   http://192.168.180.87/upload/compensate/2016/10/24/1477279397253.jpg
+    http://127.0.0.1:9090/eb/upload/compensate/2016/10/24/S_1477307833632.jpg
+   理赔管理查看图片	
+   886819509580 ZZLP862120161018000340
+   http://192.168.180.87/eb/page/claimsList/medicalInfo.jsp?acceptanceId=ZZLP862120161018000340
+   886819508541  ZZLP862120161018000341
+   http://192.168.180.87/eb/page/claimsList/medicalInfo.jsp?acceptanceId=ZZLP862120161018000341
+   报工
+   http://10.1.92.247:9080/project/login.jsp
+   
+   
+   http://127.0.0.1:9090/eb/page/claimsList/medicalInfo.jsp?acceptanceId=ZZLP862120161101000416
+  
+   
+   生产环境
+   http://eb-nci.newchinalife.com
+   
+   
+   json 格式化
+   http://json.parser.online.fr/
+   
+   
+																					 产品增加 字段   sale_area  is_sale_area  周汇金
+ 
+接口文档
+    http://10.1.71.193/svn/employeebenefits/document/20_需求阶段/接口文档/接口报文标准说明(理赔类).xlsx
+    http://10.1.71.193/svn/employeebenefits/document/20_需求阶段/接口文档/lis_reqconfrm_新华保险员福平台接口--理赔.doc
+ 
+ 
+http://10.1.71.193/svn/employeebenefits/document/90_共享文档/铁律手册（开发）.doc
+上面svn路径中铁律手册是针对开发人员的，手册中有必背的部分，必须背会，了解部分也要熟读。
+回头项目经理会针对此事召开例会，也会抽查人员的背诵情况，请大家一定要认真对待！
+
+申请书 界面。 
+file:///E:/%E6%96%B0%E9%94%90%E5%B7%A5%E4%BD%9C%E6%96%87%E6%A1%A3/SVN/document/30_%E8%AE%BE%E8%AE%A1%E9%98%B6%E6%AE%B5/%E9%9D%99%E6%80%81%E9%A1%B5%E9%9D%A2%E8%AE%BE%E8%AE%A1/%E5%89%8D%E5%8F%B0%E9%A1%B5%E9%9D%A2/%E5%91%98%E5%B7%A5-%E7%94%B3%E8%AF%B7%E5%88%97%E8%A1%A8-%E7%94%B3%E8%AF%B7%E4%B9%A6.html
+ 
+ 
+ 数据库导入sql
+ @full_path/test.sql; 
+ 
+ 
+1，前台fe配置
+eb/page/login/login.jsp
+15238677402
+qwer1234
+
+13200010001
+/exportExcel/smallFirm.go?orderId=
+
+yyy123
+1f2019c4ffa2649b000d8648cf182398
+qwer1234
+5d93ceb70e2bf5daa84ec3d0cd2c731a
+
+http://localhost:9090/eb/page/mypage/home.jsp?toPage=bankCard
+
+郝志芳
+18210283133
+qwer1234
+
+大企业HR账号： 18611028454 密码：qwer1234      18518912131   123qwe
+
+企业员工账号： 18611028453 密码：qwer1234    
+普通用户账号： 15238677402 密码：qwer1234
+
+100个员工：    15512701270       yyy123
+500 个员工：   15177665333    yyy123
+
+投保成功过的账号
+15512701270   yyy123    886819208407
+==============================================================
+投保成功过的账号
+13155667788   yyy123
+
+员工
+15056973288   yyy123             886819377248
+15056973286   yyy123 
+15056973287   yyy123   440101199801016390
+==============================================================
+ 外部投保成功账号
+韩敬维 15:35:42
+13312323400    123qwe    团体保单号：887079810213 （多个被保人）
+==============================================================
+回归环境
+   大企业hr
+  13012892309   123qwe
+==============================================================
+
+886819509606   130210009070915  ZZLP862120160923000199
+
+==============================================================
+福网已为您生成大企业03企业HR账号，
+登录名为:13209128734,密码为：834dln
+
+新华员福网已为您生成企业员工账号，
+登录名为:13312345125,密码为：495ddv
+==============================================================
+
+ZZLP862120161101000416 我申请的
+==============================================================
+
+
+
+ 理赔界面 错误
+新华员福网已为您生成企业员工账号，登录名为:13312312324,密码为：006dfs
+
+try{
+				String type = "";
+				if("Y".equals(isAccepted)){type="02";}else{type="03";}
+				input.put("type", type);
+				input.put("fallback", ErrorInfo);
+		    	Object c = iDao.update("compensate.updateCompState",input);
+	    	}catch(Exception e){
+	    		e.printStackTrace();
+	    		throw new PAIException("保存信息出错");
+	    	}
+
+			
+			
+秦少卫(ACD1B847E9BF) 09:41:35
+$.PopupBox({ type: 'msg',
+             msgText:'我们将尽快处理您的订单。'
+			 mark:'false' 
+	       });
+秦少卫(ACD1B847E9BF) 09:42:28
+'mark:'false' 加上这个参数  弹框就不操作黑色透明的遮罩层了			
+			
+			
+提示
+核心数据存在异常，请稍后再试
+核心数据出现异常，请稍后再试！			
+			
+服务器
+root
+ncl@1324
+
+无线网
+new@1234
+
+代理
+10.5.3.9:80
+
+tail -f /application/logs/8080/catalina.out
+tail -f /application/logs/8081/catalina.out
+tail -f /application/logs/8082/catalina.out
+tail -f /application/logs/8083/catalina.out
+==============================================================
+
+
+http://localhost:9091/eb/page/compensateApp/compensate.jsp?id=167&num=130210009070250&gnum=886819487456&limit=3000&rd=0.960066357881236
+http://localhost:9091/eb
+
+大企业：
+新华员福网已为您生成北京泛欧电梯有限公司企业HR账号，登录名为:18709081234,密码为：921mbd
+
+上传插件
+jquery.uploadify.js
+ajaxfileupload.js 
+
+style=\"line-height: 35px; height: 35px;\"
+
+http://127.0.0.1:9091/rbac/uploadforck.go?CKEditor=image&CKEditorFuncNum=1&langCode=zh-cn
+
+/person/personCheck.gsp?params.orderCode=
+王解放 14:55:26
+/smallFirm/smallCheck.gsp?params.orderCode=
+
+理赔申请界面
+/page/compensateApp/applicationGuide.jsp
+
+申请（网站暂存未提交时），
+受理，
+回退（如果没有错误，直接显示下一状态），
+报案，
+立案，
+审核，
+审批，
+结案，
+完成
+
+
+http://10.1.71.193/svn/employeebenefits/document/20_需求阶段/原型交互/原型相关附件/大企业员工上传模板.xlsx
+
+document/30_设计阶段/数据字典/新华保险项目数据字典维护.xls    项目新增的数据字典的内容维护到这个新的文档中去
+
+BUG记录系统：http://192.168.168.241:88/zentao/user-login.html
+ 
+E:\新锐工作文档\SVN\document\70_辅助过程\项目监控\项目工时
+
+$('span.error').remove(); //删除所有span.error 的元素
+$('li.error').removeClass('error'); //去掉所有li.error 的 error class
+
+    127.0.0.1:9090/eb/productFirmInsur/exportExcel.gsp?params.orderId=74
+
+2，
+ waibao01
+ ncl@12345
+ 
+ 
+ yanl_wb   12345678
+ douyh_wb  12345678
+ 
+
+reposity.root=D:/CMSDev/nclworkspace/rootDir
+#d2s
+d2s.file.suffix=shtml
+d2s.file.encoding=UTF-8
+
+#应用服务器地址,用于预览静态页面
+d2s.cms.server.path=http://localhost:9090/cms
+d2s.fe.server.path=http://localhost:9090/
+
+#Apache服务器预览地址，比如 http://www.geong.com
+d2s.server.path=http://localhost
+#静态文件shtml生成的物理地址，此地址一般为Apache目录
+d2s.file.path=D:/apache/www
+#Apache预览服务器地址，比如 http://www.geong.com
+d2s.preview.server.path=http://localhost/preview
+#预览静态文件地址
+d2s.preview.file.path=D:/apache/www
+#将rootDir下文件拷贝到Apache目录下的文件夹前缀名称
+d2s.resource.prefix=resource
+
+#由hadoop生成静态文件（只能为true）
+d2s.is.hadoop = false
+#保存URL文件地址
+d2s.url.file.path = D:/apache/www
+#hadoop保存文件地址
+d2s.hadoop.url = hdfs://10.1.1.211:9001/user/input/
+#全站其他模板任务的阈值 秒为单位
+d2s.allOther.threshold.value = 60
+
+
+eb.properties
+SendPhoneCodeUrl = http://10.1.71.144:8080/SmsClient/services/WsClient?wsdl
+##测试环境
+#SSLUrl = https://192.168.180.87/ebs
+##本地环境
+SSLUrl = http://localhost:9090/eb
+
+3，日志级别
+log="true"  log-index="0"  EB_USE_REG            表的mobile（涉及登录注册）
+log="true"  log-index="1"  EB_USER               表的ID
+log="true"  log-index="2"  eb_order              表的ID
+log="true"  log-index="3"  eb_product            表的ID      productId
+log="true"  log-index="4"  eb_welfare_programme  表的ID
+log="true"  log-index="5"  eb_order              表的保单号
+log="true"  log-index="6"  EB_USER               表的客户号
+
+log-type="before" log-level="2"
+
+5d93ceb70e2bf5daa84ec3d0cd2c731a   qwer1234
+5d93ceb70e2bf5daa84ec3d0cd2c731a
+
+EB-FIRMINSUR-007
+
+4.27 原型更新字段：
+	小微企业HR-小微填写投保信息：企业性质、证件有效期、前往的国家和地区、出境目的，
+	大企业HR-企业基本信息：证件有效期
+
+7972
+行业类型对应的风险等级 ， 数据字典中存储为  编码code ， value 对应风险等级   name 就是行业名称      所有的风险等级的父id 7972
+	数据库中存储的是 code ， 例如，企业表 eb_firm 表中，就要在 industry中存储，code 
+ 数据字典帮助类中有方法，根据code和 父id 获得值      DictionaryHelper.getValuebyParentCodeAndDicCode(String parentCode,String thisCode);
+
+	
+http://127.0.0.1:9090/eb/product/buyProduct.gsp?params.productId=231&params.ebUserId=183&params.firmId=36   生成订单的url	
+
+
+
+组织机构代码：序号 8，9，10，11，12 ， 五选一，必录。对应 小微填写投保信息  页面，企业基本信息 中 的证件类型。
+营业执照号码：序号 8，9，10，11，12 ， 五选一，必录。对应 小微填写投保信息  页面，企业基本信息 中 的证件类型。
+税务登记号码：序号8，9，10，11，12 ，  五选一，必录。对应 小微填写投保信息  页面，企业基本信息 中 的证件类型。
+经营许可证号码：序号 8，9，10，11，12 ，五选一，必录。对应 小微填写投保信息  页面，企业基本信息 中 的证件类型。
+社会信用代码：序号 8，9，10，11，12，  五选一，必录。对应 小微填写投保信息  页面，企业基本信息 中 的证件类型。
+
+编码	名称
+DIC_EB_FIRM_CARDTYPE_1	组织机构代码
+DIC_EB_FIRM_CARDTYPE_2	营业执照号码
+DIC_EB_FIRM_CARDTYPE_3	税务登记号码
+DIC_EB_FIRM_CARDTYPE_4	经营许可证号码
+DIC_EB_FIRM_CARDTYPE_5	社会信用代码
+
+
+$.nsajax(url,params,function(data){
+			
+});
+
+$.PopupBox({
+	  type: 'msg',
+	  msgText:'服务器异常',
+});
+
+$.PopupBox({
+	  type: 'confirm',
+	  msgText:'确认此方案中的“基本计划,自选计划,政策性保险”方案无误?',
+	  subBtnCallBack:function(){
+		$.nsajax("<%=request.getContextPath() %>/welfare/confirwpbyid.gsp","",function(data){
+			if(data.errorCode !== "9999"){
+				$.PopupBox({
+					  type: 'msg',
+					  msgText:'此员福方案已确定成功,本企业员工可在个人中心进行确认.',
+				});
+				$("#confirmBtn").remove();//移除确认按钮
+			}
+		});
+	  }
+});
+
+xConfig.tempPath = D:/CMSDev/nclworkspace/RBAC/WebContent/upload/temp/
+xConfig.draftsPath = D:/CMSDev/nclworkspace/RBAC/WebContent/upload/
+
+gotoCountryRegion()  国家选择
+
+alert(file.name);
+alert(serverData);
+
+<span class="must">*</span>  必填项
+
+                
+<tr><td>张泰然那</td><td>护照</td><td><span class="num">东莞分行将按时开工的空间</span></td><td><span class="num">2015-05-16</span></td><td>男</td><td><span class="num">18010180946</span></td><td><span class="num">zhngtr@163.com</span></td><td style="display:none">0</td><td style="display:none">1</td><td><a class="edite" onclick="editTd(this);">编辑</a><br><a class="delete" onclick="delUser(this)">删除</a></td> </tr>
+
+select * from eb_user_reg t where t.mobile_phone='18724509510'  .
+
+select * from eb_user t1 where t1.eb_reg_id='148' for update  ..
+
+
+变量名以一个或多个小写字母开始，代表变量的类型。后面附以变量的名字，变量名以意义明确的大小写混合字母序列所构成。
+
+
+验证无个人信息 bug
+
+李宁 14:41:46
+企业地址：http://localhost:9090/eb/page/enterprise/home.jsp
+李宁 14:41:52
+个人地址：http://localhost:9090/eb/page/mypage/home.jsp
+
+https://192.168.180.87/ebs/page/enterprise/home.jsp
+https://192.168.180.87/ebs/page/mypage/home.jsp
+	
+var img2 = $("#attachementImage2").val();
+if(img2.indexOf("_")<0){
+	var id2 = $("#attachementImageId2").val();
+	$("#imageDeleteFileIds2").val(id2);
+}
+
+
+
+js 的 encodeURIComponent 在 java中 解码
+String ccc = "http://localhost:9090/eb/page/product/productDetails.jsp?productId=423&style=0&urltype=0&wo=我" ;
+// js 用 encodeURIComponent编码上方的url后的字符串
+String bbb = "http%3A%2F%2Flocalhost%3A9090%2Feb%2Fpage%2Fproduct%2FproductDetails.jsp%3FproductId%3D423%26style%3D0%26urltype%3D0%26wo%3D%E6%88%91";
+				
+System.out.println("解码未编码的url>"+URLDecoder.decode(ccc,"UTF-8")); // 解码 未编码的 url
+System.out.println("解码  编码的url>"+URLDecoder.decode(bbb,"UTF-8")); // 解码 编码的 url
+System.out.println("js  编码的url>"+bbb);							// js  编码的url
+System.out.println("java编码的url>"+URLEncoder.encode(ccc,"UTF-8")); // java编码的url
+
+
+update td_weather a set collect_time = collect_time + id/24/60   oracle 的时间加减
+
+try{
+
+}catch(Exception ex){
+	ex.printStackTrace() ;
+	throw new PAIException("执行数据库操作出现异常。") ;
+}
+
+
+
+window.colse();
+就是关闭当前页面
+this.Page.RegisterClientScriptBlock("Return", "<script>window.opener.document.Form1.BtnSearch.click();window.close();</script>");
+
+window.opener.location.href=window.opener.location.href;
+
+window.close();window.parent.opener.location.reload();
+
+
+
+受理号
+
+ZZLP666620160905000002
+
+
+
+
+
+================================================开始======================================================
+
+================================================结束======================================================
+
+ibatis  插入数据位 null  
+,jdbcType=VARCHAR# 
+javaType 的区别
+
+
+<li class="title">
+	<span style="width:16%">团体保单号</span>
+	<span style="width:16%">个人保单号</span>
+	<span style="width:20%">产品名称</span>
+	<span style="width:15%">保单状态</span>
+	<span style="width:15%">生效日期</span>
+	<span style="width:13%" class="last">操作</span>
+</li>   
+
+
+
+出险人信息查询失败
+
+不知道.    把账号信息给我.  改天我问问
+韩敬维 16:51:12
+测试专用大企业01  18518912131
+韩敬维 16:51:23
+13723423431
+韩敬维 16:51:33
+密码都是123qwe
+韩敬维 16:51:42
+第二个是员工
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
